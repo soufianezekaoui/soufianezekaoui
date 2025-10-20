@@ -1,4 +1,8 @@
-# Hey there! I'm SOUFIANE ZEKAOUI 👋.
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <h1 > Hey there! I'm SOUFIANE ZEKAOUI 👋.</h1>
+</div>
+
 ## 👨🏻‍💻 About Me
 
 - 🔭   I’m a Web Developer & Information Systems student at the [National School of Applied Sciences in Khouribga](http://ensak.usms.ac.ma/ensak/).
