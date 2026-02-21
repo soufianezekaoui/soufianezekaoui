@@ -12,7 +12,7 @@
 - 🤖   Enthusiast in Web Develeopement I am passionate about digital solutions and optimizing information processes. .
 - ✍️   Reading Medium articles and trying out latest technologies trends.
         *Reading beautiful books like a conversation with the best men of past centuries.* ~Descarte~        
-- ☕   I belive, a perfect cup of Moroccan tea is able to reduce and remove all head pain.
+- 🍵   I believe a perfect cup of Moroccan tea cures any headache.
 - ⏳    One more thing; *Never stop studing because life never stops teaching.*
 
 
@@ -76,9 +76,8 @@
 
 ### 🔍 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soufianezekaoui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianezekaoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=soufianezekaoui&show_icons=true&theme=dracula&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufianezekaoui&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
 </div>
 
 ### 📊 GitHub Metrics Card
