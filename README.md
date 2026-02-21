@@ -76,8 +76,8 @@
 
 ### 🔍 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soufianezekaoui&show_icons=true&theme=dracula&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufianezekaoui&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soufianezekaoui&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soufianezekaoui&layout=compact&theme=dracula" height="150" />
 </div>
 
 ### 📊 GitHub Metrics Card
