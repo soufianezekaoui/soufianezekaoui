@@ -5,11 +5,11 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭   I’m a Web Developer & Information Systems student at the [National School of Applied Sciences in Khouribga](http://ensak.usms.ac.ma/ensak/).
-- 🤔   📅 Until this moment(from 01/07/2025), I am doing an internship in IT development at the [EXPERTS HUMAN CAPITAL (EHC Group)](http://expertshumancapital.com), where I will be involved                  developing web and software applications, and contributing to various technology solutions as part of the engineering team.
-- 🎓   Studying Information Systems, Data Analysis, BI and Web Developement.
+- 🔭   I’m a Software & Information Systems Engineering student at the [National School of Applied Sciences in Khouribga](http://ensak.usms.ac.ma/ensak/).
+- 🤔   📅 Jul. 2025 – Oct. 2025 — Front-End & Information Systems Intern at [EXPERTS HUMAN CAPITAL (EHC Group)](http://expertshumancapital.com), where I built the front-end of a recruitment information system using React, TypeScript, and Tailwind CSS, converting Figma designs into responsive interfaces while contributing to data modeling and agile workflows.
+- 🎓   Studying Information Systems, Full Stack Development, Data Analysis, and BI.
 - 💼   Currently, I'm adding my projects in my GitHub.
-- 🤖   Enthusiast in Web Develeopement I am passionate about digital solutions and optimizing information processes. .
+- 🤖   Enthusiast in Full Stack Development, I am passionate about digital solutions and optimizing information processes.
 - ✍️   Reading Medium articles and trying out latest technologies trends.
         *Reading beautiful books like a conversation with the best men of past centuries.* ~Descarte~        
 - 🍵   I believe a perfect cup of Moroccan tea cures any headache.
